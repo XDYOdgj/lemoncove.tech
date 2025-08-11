@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lemoncove.tech/sitemap.xml
